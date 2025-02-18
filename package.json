@@ -1,0 +1,38 @@
+{
+	"name": "telegram-birthday-bot",
+	"version": "1.0.0",
+	"description": "Telegram bot built with Grammy to track days until birthdays",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/va1les/TelegramBirthdayBot.git"
+	},
+	"keywords": [
+		"telegram",
+		"telegram-bot",
+		"grammy",
+		"mongodb",
+		"birthday-bot"
+	],
+	"author": {
+		"name": "va1les",
+		"url": "https://github.com/va1les"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/va1les/TelegramBirthdayBot/issues"
+	},
+	"homepage": "https://github.com/va1les/TelegramBirthdayBot#readme",
+	"dependencies": {
+		"colors": "^1.4.0",
+		"dotenv": "^16.4.7",
+		"fs": "^0.0.1-security",
+		"grammy": "^1.34.1",
+		"mongoose": "^7.0.2",
+		"ms": "^2.1.3",
+		"node-cron": "^3.0.3"
+	}
+}

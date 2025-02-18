@@ -1,0 +1,7 @@
+{
+	"token": "YOUR_TELEGRAM_BOT_TOKEN",
+	"mongoURL": "YOUR_MONGODB_URI",
+	"developers": [
+		"YOUR_TELEGRAM_USER_ID"
+	]
+}
