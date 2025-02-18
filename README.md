@@ -60,7 +60,7 @@ node index.js
 ---
 
 ## 👨‍💻 Контакты
-📩 **Telegram:** [@s0bakennn](https://t.me/s0bakennn)
+📩 **Telegram:** [@s0bakennn](https://t.me/s0bakennn)<br>
 🌀 **Discord:** [va1les](https://discord.com/users/550336142160035840)
 
 ---
